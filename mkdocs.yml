@@ -7,3 +7,8 @@ theme:
   palette: 
     primary: green
   #favicon: 'img/covid.ico'
+
+  nav:
+    - Home: index.md
+    - About: about.md
+    - Code: code.md
