@@ -3,4 +3,4 @@ theme:
   name: material
   palette: 
     primary: green
-  favicon: 'img/covid.ico'
+  #favicon: 'img/covid.ico'
