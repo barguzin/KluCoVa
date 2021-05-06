@@ -1,0 +1,4 @@
+site_name: KluCoVa - investigating the Klustering of COVID-19
+theme: 
+  name: material
+  favicon: 'img/covid.ico'
