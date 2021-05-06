@@ -1,4 +1,7 @@
-site_name: KluCoVa - investigating the Klustering of COVID-19
+site_name: KluCoVa
+site_description: 'PSTAT 234 (Spring 2021)'
+site_author: 'Evgeny Noi'
+repo_url: 'https://github.com/barguzin/klucova'
 theme: 
   name: material
   palette: 
