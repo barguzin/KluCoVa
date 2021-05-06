@@ -1,4 +1,6 @@
 site_name: KluCoVa - investigating the Klustering of COVID-19
 theme: 
   name: material
+  palette: 
+    primary: green
   favicon: 'img/covid.ico'
